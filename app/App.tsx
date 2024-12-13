@@ -19,7 +19,7 @@ export default function App() {
   // App.tsx
   useEffect(() => {
     // URL을 raw 형태로 전달
-    const pdfUrl = "http://www.pvv.co.kr/bbs/download.php?bbsMode=fileDown&code=bbs_menu01&id=743&filename=%C6%C7%B1%B311%BF%F94%C1%D6%C2%F7.pdf";
+    const pdfUrl = "http://www.pvv.co.kr/bbs/download.php?bbsMode=fileDown&code=bbs_menu01&id=745&filename=%C6%C7%B1%B312%BF%F92%C1%D6%C2%F7.pdf";
     
     // API 요청 URL 구성
     const apiUrl = new URL('http://localhost:8000/menu');
